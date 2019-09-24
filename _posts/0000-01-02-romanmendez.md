@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Listen to **everyone**, follow **no one**
+
 Use the left arrow to go back!
